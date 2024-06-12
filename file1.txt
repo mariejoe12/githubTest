@@ -1,1 +1,4 @@
 " great job " 
+ git is a DevOps tool used for source code management .
+it is a free and open source version.
+used to handle small to very large projects ....
